@@ -1,0 +1,15 @@
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\bin\Debug\net6.0\zadacha41.exe
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\bin\Debug\net6.0\zadacha41.deps.json
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\bin\Debug\net6.0\zadacha41.runtimeconfig.json
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\bin\Debug\net6.0\zadacha41.dll
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\bin\Debug\net6.0\zadacha41.pdb
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.csproj.AssemblyReference.cache
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.AssemblyInfoInputs.cache
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.AssemblyInfo.cs
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.csproj.CoreCompileInputs.cache
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.dll
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\refint\zadacha41.dll
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.pdb
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\zadacha41.genruntimeconfig.cache
+C:\Users\lenag\Desktop\ДЗ все\c#\DZ6\zadacha41\obj\Debug\net6.0\ref\zadacha41.dll
